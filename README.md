@@ -7,7 +7,7 @@ The system adopts a `B/S architecture`, with a `browser` on the user side and a 
 ## System subsystems division
 The system is divided into the following six subsystems according to the categories of users and for their functions: health information management subsystem, health assessment subsystem, health criteria management subsystem, health analysis subsystem, user rights management subsystem and system setting subsystem.
 
-## System business process
+## System flow
 Through the individual user through the entry of personal health information, using health evaluation model through health evaluation criteria for personal health assessment, the assessment results using health intervention strategy for personal behavior and living habits of health intervention, the final results through the personal health indicators of the change of feedback to the system of personal health information.
 The health management user uses the health evaluation model to analyse the group health information, summarise the rules through the health evaluation criteria, adjust the health intervention strategy, and finally feedback the changes in personal health indicators to the system's personal health information.
 
